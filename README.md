@@ -1,31 +1,29 @@
 ![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D5616AQHTI1gIvd6NSg/profile-displaybackgroundimage-shrink_350_1400/0/1687429758307?e=1692835200&v=beta&t=yN4zWcuNkqCfMS_QbwcTMfRJvx8ds52QhdwfnSiD81s)
 
-# Hi there 👋, I'm Nayeem. A passionate front-end developer from Bangladesh. I enjoy exploring tech & learning about it.
+# Hi there 👋, I'm Nayeem, a front-end web developer & enthusiastic learner from Bangladesh.
 
-### Skills:
-HTML / CSS / BOOTSTRAP / JS
+### Skills (Front-end):
+HTML, CSS, JavaScript, Bootstrap, React.js, Vite.js, npm, styled-components Material-UI, Git and GitHub.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/html.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/css.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/bootstrap-5-logo.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/git.svg" alt="git" width="40" height="40"/> </a> </p>
-    
+### Skills (additional):
+Scratch, a visual programming language, and C programming.
 
-- 🔭 I’m currently working on my own projects 
-- 🌱 I’m currently learning React 
-- 💬 Ask me about web development & tech
-- 📫 How to reach me: through social media 
-- 😄 Pronouns: He / His
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md5nayeem) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/md5nayeem)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/md5nayeem) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/md5nayeem)
 
-### Connect with me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/md5nayeem)  [<img src='https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/linkedin-app.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md5nayeem/)  [<img src='https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/facebook-app.svg' alt='facebook' height='40'>](https://www.facebook.com/md5nayeem)  [<img src='https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/ig-instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/md5nayeem/)  [<img src='https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/twitter-app.svg' alt='twitter' height='40'>](https://twitter.com/md5nayeem)  
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+# 📊 GitHub Stats:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=md5nayeem&show_icons=true&count_private=true)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=md5nayeem)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=md5nayeem)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=md5nayeem)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=md5nayeem)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=md5nayeem&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=md5nayeem)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=md5nayeem)  
-
-![Profile views](https://gpvc.arturio.dev/md5nayeem)  
+[![](https://visitcount.itsvg.in/api?id=md5nayeem&icon=0&color=0)](https://visitcount.itsvg.in)
