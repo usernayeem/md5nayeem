@@ -1,6 +1,6 @@
-![](https://media-exp1.licdn.com/dms/image/C5616AQGwsjd965TXfw/profile-displaybackgroundimage-shrink_350_1400/0/1651142087067?e=1659571200&v=beta&t=ys_LadFsq4fruVmm1Lmj_VPJYnscIbIpNcJy52IM-7Q)
+![md5nayeem LinkedIn Banner](https://github.com/md5nayeem/md5nayeem/assets/93907431/c04d7e5b-d2a0-48d0-9972-7b92d3a87ea1)
 
-# Hi there 👋, I'm Nayeem. A passionate front-end developer from Bangladesh. I enjoy exploring tech & learning programming languages.
+# Hi there 👋, I'm Nayeem. A passionate front-end developer from Bangladesh. I enjoy exploring tech & learning about it.
 
 ### Skills:
 HTML / CSS / BOOTSTRAP / JS
